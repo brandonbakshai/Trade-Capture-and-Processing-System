@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.collections.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.collections.FXCollections?>
+
+<Pane maxHeight="570.0" maxWidth="-Infinity" minHeight="510.0" minWidth="-Infinity" prefHeight="570.0" prefWidth="375.0" xmlns="http://javafx.com/javafx/8.0.40" xmlns:fx="http://javafx.com/fxml/1" fx:controller="trading.Controller">
+   <children>
+      <RadioButton layoutX="140.0" layoutY="259.0" mnemonicParsing="false" selected="true" text="Buy">
+         <toggleGroup>
+            <ToggleGroup fx:id="buy" />
+         </toggleGroup>
+      </RadioButton>
+      <RadioButton layoutX="195.0" layoutY="259.0" mnemonicParsing="false" text="Sell" toggleGroup="$buy" />
+      <Button layoutX="112.0" layoutY="387.0" mnemonicParsing="false" onAction="#validateTrade" prefHeight="27.0" prefWidth="167.0" text="Execute Trade" />
+      <Button layoutX="112.0" layoutY="418.0" mnemonicParsing="false" onAction="#writeCSV" prefHeight="27.0" prefWidth="167.0" text="Get Trade Report" />
+      <Button layoutX="112.0" layoutY="450.0" mnemonicParsing="false" onAction="#writeAggregatesCSV" text="Get Aggregate Positions" />
+      <TextField fx:id="symbol" layoutX="143.0" layoutY="48.0" />
+      <TextField fx:id="expiry" layoutX="143.0" layoutY="90.0" promptText="Format yyyymmdd" />
+      <TextField fx:id="lots" layoutX="143.0" layoutY="133.0" />
+      <TextField fx:id="price" layoutX="143.0" layoutY="174.0" />
+      <TextField fx:id="trader" layoutX="143.0" layoutY="213.0" />
+      <Label layoutX="44.0" layoutY="53.0" text="Symbol" />
+      <Label layoutX="44.0" layoutY="95.0" text="Contract Expiry" />
+      <Label layoutX="47.0" layoutY="138.0" text="Lots" />
+      <Label layoutX="46.0" layoutY="179.0" text="Price ($)" />
+      <Label layoutX="47.0" layoutY="218.0" text="Trader" />
+      <ChoiceBox fx:id="type" layoutX="112.0" layoutY="317.0" prefHeight="27.0" prefWidth="167.0" value="Market">
+         <items>
+            <FXCollections fx:factory="observableArrayList">
+               <String fx:value="Market" />
+               <String fx:value="Limit" />
+               <String fx:value="Pegged" />
+            </FXCollections>
+         </items>
+      </ChoiceBox>
+      <Label layoutX="153.0" layoutY="290.0" text="Type of order" />
+      <Label layoutX="172.0" layoutY="369.0" text="Actions" />
+      <Button layoutX="111.0" layoutY="482.0" mnemonicParsing="false" onAction="#validateTrade" prefHeight="27.0" prefWidth="167.0" text="Get PnL Report" />
+   </children>
+</Pane>

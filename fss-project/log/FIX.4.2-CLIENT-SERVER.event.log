@@ -1,0 +1,293 @@
+20151110-20:42:21: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-20:42:21: Created session: FIX.4.2:CLIENT->SERVER
+20151110-20:42:22: Initiated logon request
+20151110-20:42:22: Received logout request: MsgSeqNum too low, expecting 49 but received 1
+20151110-20:42:22: Sent logout response
+20151110-20:42:24: Initiated logon request
+20151110-20:42:24: Received logout request: MsgSeqNum too low, expecting 49 but received 3
+20151110-20:42:24: Sent logout response
+20151110-20:42:25: Initiated logon request
+20151110-20:42:25: Received logout request: MsgSeqNum too low, expecting 49 but received 5
+20151110-20:42:25: Sent logout response
+20151110-20:42:26: Initiated logon request
+20151110-20:42:26: Received logout request: MsgSeqNum too low, expecting 49 but received 7
+20151110-20:42:26: Sent logout response
+20151110-20:42:27: Initiated logon request
+20151110-20:42:27: Received logout request: MsgSeqNum too low, expecting 49 but received 9
+20151110-20:42:27: Sent logout response
+20151110-20:42:28: Initiated logon request
+20151110-20:42:28: Received logout request: MsgSeqNum too low, expecting 49 but received 11
+20151110-20:42:28: Sent logout response
+20151110-20:42:29: Initiated logon request
+20151110-20:42:29: Received logout request: MsgSeqNum too low, expecting 49 but received 13
+20151110-20:42:29: Sent logout response
+20151110-20:42:30: Initiated logon request
+20151110-20:42:30: Received logout request: MsgSeqNum too low, expecting 49 but received 15
+20151110-20:42:30: Sent logout response
+20151110-20:42:31: Initiated logon request
+20151110-20:42:31: Received logout request: MsgSeqNum too low, expecting 49 but received 17
+20151110-20:42:31: Sent logout response
+20151110-20:42:32: Initiated logon request
+20151110-20:42:32: Received logout request: MsgSeqNum too low, expecting 49 but received 19
+20151110-20:42:32: Sent logout response
+20151110-20:42:33: Initiated logon request
+20151110-20:42:33: Received logout request: MsgSeqNum too low, expecting 49 but received 21
+20151110-20:42:33: Sent logout response
+20151110-20:42:34: Initiated logon request
+20151110-20:42:34: Received logout request: MsgSeqNum too low, expecting 49 but received 23
+20151110-20:42:34: Sent logout response
+20151110-20:42:35: Initiated logon request
+20151110-20:42:35: Received logout request: MsgSeqNum too low, expecting 49 but received 25
+20151110-20:42:35: Sent logout response
+20151110-20:42:36: Initiated logon request
+20151110-20:42:36: Received logout request: MsgSeqNum too low, expecting 49 but received 27
+20151110-20:42:36: Sent logout response
+20151110-20:42:37: Initiated logon request
+20151110-20:42:37: Received logout request: MsgSeqNum too low, expecting 49 but received 29
+20151110-20:42:37: Sent logout response
+20151110-20:42:38: Initiated logon request
+20151110-20:42:38: Received logout request: MsgSeqNum too low, expecting 49 but received 31
+20151110-20:42:38: Sent logout response
+20151110-20:42:39: Initiated logon request
+20151110-20:42:39: Received logout request: MsgSeqNum too low, expecting 49 but received 33
+20151110-20:42:39: Sent logout response
+20151110-20:42:39: Disconnecting: Socket exception (localhost/127.0.0.1:5001): java.io.IOException: Connection reset by peer
+20151110-20:42:40: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-20:42:41: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-20:42:42: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-20:42:43: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-20:42:44: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-20:42:45: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-20:42:47: Initiated logon request
+20151110-20:42:47: Received logout request: MsgSeqNum too low, expecting 49 but received 35
+20151110-20:42:47: Sent logout response
+20151110-20:42:47: Already disconnected: Socket exception (localhost/127.0.0.1:5001): java.io.IOException: Connection reset by peer
+20151110-20:42:48: Initiated logon request
+20151110-20:42:48: Received logout request: MsgSeqNum too low, expecting 49 but received 37
+20151110-20:42:48: Sent logout response
+20151110-20:42:49: Initiated logon request
+20151110-20:42:49: Received logout request: MsgSeqNum too low, expecting 49 but received 39
+20151110-20:42:49: Sent logout response
+20151110-20:42:50: Initiated logon request
+20151110-20:42:50: Received logout request: MsgSeqNum too low, expecting 49 but received 41
+20151110-20:42:50: Sent logout response
+20151110-20:42:51: Initiated logon request
+20151110-20:42:51: Received logout request: MsgSeqNum too low, expecting 49 but received 43
+20151110-20:42:51: Sent logout response
+20151110-20:42:52: Initiated logon request
+20151110-20:42:52: Received logout request: MsgSeqNum too low, expecting 49 but received 45
+20151110-20:42:52: Sent logout response
+20151110-20:42:53: Initiated logon request
+20151110-20:42:53: Received logout request: MsgSeqNum too low, expecting 49 but received 47
+20151110-20:42:53: Sent logout response
+20151110-20:43:13: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-20:43:13: Created session: FIX.4.2:CLIENT->SERVER
+20151110-20:43:14: Initiated logon request
+20151110-20:43:14: Received logon
+20151110-20:43:14: MsgSeqNum too high, expecting 1 but received 73: 8=FIX.4.29=6835=A34=7349=SERVER52=20151110-20:43:14.86456=CLIENT98=0108=3010=204
+20151110-20:43:14: Enqueued at pos 73: 8=FIX.4.29=6835=A34=7349=SERVER52=20151110-20:43:14.86456=CLIENT98=0108=3010=204
+20151110-20:43:14: Sent ResendRequest FROM: 1 TO: 72
+20151110-20:43:14: Received SequenceReset FROM: 1 TO: 2
+20151110-20:43:14: Received SequenceReset FROM: 3 TO: 4
+20151110-20:43:14: Received SequenceReset FROM: 5 TO: 8
+20151110-20:43:14: Received SequenceReset FROM: 9 TO: 44
+20151110-20:43:14: Received SequenceReset FROM: 45 TO: 46
+20151110-20:43:14: Received SequenceReset FROM: 47 TO: 48
+20151110-20:43:14: Received SequenceReset FROM: 49 TO: 74
+20151110-20:43:34: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-20:43:34: Created session: FIX.4.2:CLIENT->SERVER
+20151110-20:43:35: Initiated logon request
+20151110-20:43:35: Received logon
+20151110-20:43:35: MsgSeqNum too high, expecting 74 but received 75: 8=FIX.4.29=6835=A34=7549=SERVER52=20151110-20:43:35.07856=CLIENT98=0108=3010=206
+20151110-20:43:35: Enqueued at pos 75: 8=FIX.4.29=6835=A34=7549=SERVER52=20151110-20:43:35.07856=CLIENT98=0108=3010=206
+20151110-20:43:35: Sent ResendRequest FROM: 74 TO: 74
+20151110-20:43:35: ResendRequest for messages FROM 74 TO 74 has been satisfied.
+20151110-20:43:35: Processing queued message: 75
+20151110-20:44:22: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-20:44:22: Created session: FIX.4.2:CLIENT->SERVER
+20151110-20:44:23: Initiated logon request
+20151110-20:44:23: Received logon
+20151110-20:44:23: MsgSeqNum too high, expecting 76 but received 77: 8=FIX.4.29=6835=A34=7749=SERVER52=20151110-20:44:23.60756=CLIENT98=0108=3010=204
+20151110-20:44:23: Enqueued at pos 77: 8=FIX.4.29=6835=A34=7749=SERVER52=20151110-20:44:23.60756=CLIENT98=0108=3010=204
+20151110-20:44:23: Sent ResendRequest FROM: 76 TO: 76
+20151110-20:44:23: ResendRequest for messages FROM 76 TO 76 has been satisfied.
+20151110-20:44:23: Processing queued message: 77
+20151112-19:56:18: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151112-19:56:18: Session state is not current; resetting FIX.4.2:CLIENT->SERVER
+20151112-19:56:18: Created session: FIX.4.2:CLIENT->SERVER
+20151112-19:56:20: Initiated logon request
+20151112-19:56:20: Received logon
+20151112-20:12:34: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151112-20:12:34: Created session: FIX.4.2:CLIENT->SERVER
+20151112-20:12:35: Initiated logon request
+20151112-20:12:35: Received logon
+20151112-20:12:35: Received ResendRequest FROM: 2 TO: infinity
+20151112-20:12:35: Resending Message: 2
+20151112-20:12:35: Sent SequenceReset TO: 4
+20151113-20:23:44: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151113-20:23:44: Session state is not current; resetting FIX.4.2:CLIENT->SERVER
+20151113-20:23:44: Created session: FIX.4.2:CLIENT->SERVER
+20151113-20:23:45: Initiated logon request
+20151113-20:23:45: Received logon
+20151113-20:24:06: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151113-20:24:06: Created session: FIX.4.2:CLIENT->SERVER
+20151113-20:24:08: Initiated logon request
+20151113-20:24:08: Received logon
+20151113-20:24:08: MsgSeqNum too high, expecting 2 but received 3: 8=FIX.4.29=6735=A34=349=SERVER52=20151113-20:24:08.00456=CLIENT98=0108=3010=139
+20151113-20:24:08: Enqueued at pos 3: 8=FIX.4.29=6735=A34=349=SERVER52=20151113-20:24:08.00456=CLIENT98=0108=3010=139
+20151113-20:24:08: Sent ResendRequest FROM: 2 TO: 2
+20151113-20:24:08: ResendRequest for messages FROM 2 TO 2 has been satisfied.
+20151113-20:24:08: Processing queued message: 3
+20151113-20:24:26: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151113-20:24:26: Created session: FIX.4.2:CLIENT->SERVER
+20151113-20:24:27: Initiated logon request
+20151113-20:24:27: Received logon
+20151113-20:24:27: MsgSeqNum too high, expecting 4 but received 5: 8=FIX.4.29=6735=A34=549=SERVER52=20151113-20:24:27.61356=CLIENT98=0108=3010=148
+20151113-20:24:27: Enqueued at pos 5: 8=FIX.4.29=6735=A34=549=SERVER52=20151113-20:24:27.61356=CLIENT98=0108=3010=148
+20151113-20:24:27: Sent ResendRequest FROM: 4 TO: 4
+20151113-20:24:27: ResendRequest for messages FROM 4 TO 4 has been satisfied.
+20151113-20:24:27: Processing queued message: 5
+20151116-16:32:45: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-16:32:45: Session state is not current; resetting FIX.4.2:CLIENT->SERVER
+20151116-16:32:45: Created session: FIX.4.2:CLIENT->SERVER
+20151116-16:32:46: Initiated logon request
+20151116-16:32:46: Received logon
+20151116-16:33:57: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-16:33:57: Created session: FIX.4.2:CLIENT->SERVER
+20151116-16:33:58: Initiated logon request
+20151116-16:33:58: Received logon
+20151116-16:33:58: MsgSeqNum too high, expecting 2 but received 3: 8=FIX.4.29=6735=A34=349=SERVER52=20151116-16:33:58.74256=CLIENT98=0108=3010=161
+20151116-16:33:58: Enqueued at pos 3: 8=FIX.4.29=6735=A34=349=SERVER52=20151116-16:33:58.74256=CLIENT98=0108=3010=161
+20151116-16:33:58: Sent ResendRequest FROM: 2 TO: 2
+20151116-16:33:58: ResendRequest for messages FROM 2 TO 2 has been satisfied.
+20151116-16:33:58: Processing queued message: 3
+20151116-16:35:00: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-16:35:00: Created session: FIX.4.2:CLIENT->SERVER
+20151116-16:35:01: Initiated logon request
+20151116-16:35:01: Received logon
+20151116-16:35:01: MsgSeqNum too high, expecting 4 but received 5: 8=FIX.4.29=6735=A34=549=SERVER52=20151116-16:35:01.79356=CLIENT98=0108=3010=159
+20151116-16:35:01: Enqueued at pos 5: 8=FIX.4.29=6735=A34=549=SERVER52=20151116-16:35:01.79356=CLIENT98=0108=3010=159
+20151116-16:35:01: Sent ResendRequest FROM: 4 TO: 4
+20151116-16:35:01: ResendRequest for messages FROM 4 TO 4 has been satisfied.
+20151116-16:35:01: Processing queued message: 5
+20151116-18:04:15: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-18:04:15: Created session: FIX.4.2:CLIENT->SERVER
+20151116-18:04:16: Initiated logon request
+20151116-18:04:16: Received logon
+20151116-18:04:16: MsgSeqNum too high, expecting 6 but received 7: 8=FIX.4.29=6735=A34=749=SERVER52=20151116-18:04:16.97156=CLIENT98=0108=3010=163
+20151116-18:04:16: Enqueued at pos 7: 8=FIX.4.29=6735=A34=749=SERVER52=20151116-18:04:16.97156=CLIENT98=0108=3010=163
+20151116-18:04:16: Sent ResendRequest FROM: 6 TO: 6
+20151116-18:04:17: ResendRequest for messages FROM 6 TO 6 has been satisfied.
+20151116-18:04:17: Rejecting invalid message: quickfix.FieldNotFound: Field [38] was not found in message.: 8=FIX.4.29=15935=834=643=Y49=SERVER52=20151116-18:04:17.00156=CLIENT122=20151116-16:35:04.7926=1.23514=10017=220=037=239=244=1154=155=HH150=2151=100211=1210=097
+20151116-18:04:17: Reject sent for Message 6: Conditionally Required Field Missing: tag=38
+20151116-18:04:17: Processing queued message: 7
+20151116-18:05:33: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-18:05:33: Created session: FIX.4.2:CLIENT->SERVER
+20151116-18:05:34: Initiated logon request
+20151116-18:05:34: Received logon
+20151116-18:05:34: MsgSeqNum too high, expecting 8 but received 11: 8=FIX.4.29=6835=A34=1149=SERVER52=20151116-18:05:34.89956=CLIENT98=0108=3010=217
+20151116-18:05:34: Enqueued at pos 11: 8=FIX.4.29=6835=A34=1149=SERVER52=20151116-18:05:34.89956=CLIENT98=0108=3010=217
+20151116-18:05:34: Sent ResendRequest FROM: 8 TO: 10
+20151116-18:05:34: ResendRequest for messages FROM 8 TO 10 has been satisfied.
+20151116-18:05:34: Processing queued message: 11
+20151116-18:51:51: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-18:51:51: Created session: FIX.4.2:CLIENT->SERVER
+20151116-18:51:52: Initiated logon request
+20151116-18:51:53: Received logon
+20151116-18:51:53: MsgSeqNum too high, expecting 12 but received 15: 8=FIX.4.29=6835=A34=1549=SERVER52=20151116-18:51:52.99156=CLIENT98=0108=3010=215
+20151116-18:51:53: Enqueued at pos 15: 8=FIX.4.29=6835=A34=1549=SERVER52=20151116-18:51:52.99156=CLIENT98=0108=3010=215
+20151116-18:51:53: Sent ResendRequest FROM: 12 TO: 14
+20151116-18:51:53: ResendRequest for messages FROM 12 TO 14 has been satisfied.
+20151116-18:51:53: Processing queued message: 15
+20151116-18:54:28: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-18:54:28: Created session: FIX.4.2:CLIENT->SERVER
+20151116-18:54:30: Initiated logon request
+20151116-18:54:30: Received logon
+20151116-18:55:28: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-18:55:28: Created session: FIX.4.2:CLIENT->SERVER
+20151116-18:55:29: Initiated logon request
+20151116-18:55:29: Received logon
+20151116-18:56:30: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-18:56:30: Created session: FIX.4.2:CLIENT->SERVER
+20151116-18:56:31: Initiated logon request
+20151116-18:56:31: Received logon
+20151116-18:56:54: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-18:56:54: Created session: FIX.4.2:CLIENT->SERVER
+20151116-18:56:55: Initiated logon request
+20151116-18:56:55: Received logon
+20151116-18:58:50: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-18:58:50: Created session: FIX.4.2:CLIENT->SERVER
+20151116-18:58:51: Initiated logon request
+20151116-18:58:51: Received logon
+20151116-18:58:51: MsgSeqNum too high, expecting 20 but received 26: 8=FIX.4.29=6835=A34=2649=SERVER52=20151116-18:58:51.37156=CLIENT98=0108=3010=215
+20151116-18:58:51: Enqueued at pos 26: 8=FIX.4.29=6835=A34=2649=SERVER52=20151116-18:58:51.37156=CLIENT98=0108=3010=215
+20151116-18:58:51: Sent ResendRequest FROM: 20 TO: 25
+20151116-18:58:51: ResendRequest for messages FROM 20 TO 25 has been satisfied.
+20151116-18:58:51: Processing queued message: 26
+20151116-19:08:53: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-19:08:53: Created session: FIX.4.2:CLIENT->SERVER
+20151116-19:08:54: Initiated logon request
+20151116-19:08:54: Received logon
+20151116-19:08:54: MsgSeqNum too high, expecting 27 but received 30: 8=FIX.4.29=6835=A34=3049=SERVER52=20151116-19:08:54.57656=CLIENT98=0108=3010=216
+20151116-19:08:54: Enqueued at pos 30: 8=FIX.4.29=6835=A34=3049=SERVER52=20151116-19:08:54.57656=CLIENT98=0108=3010=216
+20151116-19:08:54: Sent ResendRequest FROM: 27 TO: 29
+20151116-19:08:54: ResendRequest for messages FROM 27 TO 29 has been satisfied.
+20151116-19:08:54: Processing queued message: 30
+20151116-19:10:53: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-19:10:53: Created session: FIX.4.2:CLIENT->SERVER
+20151116-19:10:54: Initiated logon request
+20151116-19:10:54: Received logon
+20151116-19:10:54: MsgSeqNum too high, expecting 31 but received 34: 8=FIX.4.29=6835=A34=3449=SERVER52=20151116-19:10:54.42556=CLIENT98=0108=3010=206
+20151116-19:10:54: Enqueued at pos 34: 8=FIX.4.29=6835=A34=3449=SERVER52=20151116-19:10:54.42556=CLIENT98=0108=3010=206
+20151116-19:10:54: Sent ResendRequest FROM: 31 TO: 33
+20151116-19:10:54: ResendRequest for messages FROM 31 TO 33 has been satisfied.
+20151116-19:10:54: Processing queued message: 34
+20151116-19:12:43: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-19:12:43: Created session: FIX.4.2:CLIENT->SERVER
+20151116-19:12:45: Initiated logon request
+20151116-19:12:45: Received logon
+20151116-19:14:39: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-19:14:39: Created session: FIX.4.2:CLIENT->SERVER
+20151116-19:14:40: Initiated logon request
+20151116-19:14:40: Received logon
+20151116-19:14:40: MsgSeqNum too high, expecting 36 but received 38: 8=FIX.4.29=6835=A34=3849=SERVER52=20151116-19:14:40.89556=CLIENT98=0108=3010=220
+20151116-19:14:40: Enqueued at pos 38: 8=FIX.4.29=6835=A34=3849=SERVER52=20151116-19:14:40.89556=CLIENT98=0108=3010=220
+20151116-19:14:40: Sent ResendRequest FROM: 36 TO: 37
+20151116-19:14:40: ResendRequest for messages FROM 36 TO 37 has been satisfied.
+20151116-19:14:40: Processing queued message: 38
+20151116-19:20:33: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-19:20:33: Created session: FIX.4.2:CLIENT->SERVER
+20151116-19:20:34: Initiated logon request
+20151116-19:20:34: Received logon
+20151116-19:20:34: MsgSeqNum too high, expecting 39 but received 43: 8=FIX.4.29=6835=A34=4349=SERVER52=20151116-19:20:34.45956=CLIENT98=0108=3010=212
+20151116-19:20:34: Enqueued at pos 43: 8=FIX.4.29=6835=A34=4349=SERVER52=20151116-19:20:34.45956=CLIENT98=0108=3010=212
+20151116-19:20:34: Sent ResendRequest FROM: 39 TO: 42
+20151116-19:20:34: ResendRequest for messages FROM 39 TO 42 has been satisfied.
+20151116-19:20:34: Processing queued message: 43
+20151116-19:22:44: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-19:22:44: Created session: FIX.4.2:CLIENT->SERVER
+20151116-19:22:45: Initiated logon request
+20151116-19:22:45: Received logon
+20151116-19:22:45: MsgSeqNum too high, expecting 44 but received 46: 8=FIX.4.29=6835=A34=4649=SERVER52=20151116-19:22:45.68456=CLIENT98=0108=3010=219
+20151116-19:22:45: Enqueued at pos 46: 8=FIX.4.29=6835=A34=4649=SERVER52=20151116-19:22:45.68456=CLIENT98=0108=3010=219
+20151116-19:22:45: Sent ResendRequest FROM: 44 TO: 45
+20151116-19:22:45: ResendRequest for messages FROM 44 TO 45 has been satisfied.
+20151116-19:22:45: Processing queued message: 46
+20151116-19:23:20: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-19:23:20: Created session: FIX.4.2:CLIENT->SERVER
+20151116-19:23:21: Initiated logon request
+20151116-19:23:21: Received logon
+20151116-19:23:21: MsgSeqNum too high, expecting 47 but received 51: 8=FIX.4.29=6835=A34=5149=SERVER52=20151116-19:23:21.74656=CLIENT98=0108=3010=209
+20151116-19:23:21: Enqueued at pos 51: 8=FIX.4.29=6835=A34=5149=SERVER52=20151116-19:23:21.74656=CLIENT98=0108=3010=209
+20151116-19:23:21: Sent ResendRequest FROM: 47 TO: 50
+20151116-19:23:21: ResendRequest for messages FROM 47 TO 50 has been satisfied.
+20151116-19:23:21: Processing queued message: 51
+20151116-19:23:53: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151116-19:23:53: Created session: FIX.4.2:CLIENT->SERVER
+20151116-19:23:54: Initiated logon request
+20151116-19:23:54: Received logon
+20151116-19:23:54: MsgSeqNum too high, expecting 52 but received 54: 8=FIX.4.29=6835=A34=5449=SERVER52=20151116-19:23:54.51256=CLIENT98=0108=3010=209
+20151116-19:23:54: Enqueued at pos 54: 8=FIX.4.29=6835=A34=5449=SERVER52=20151116-19:23:54.51256=CLIENT98=0108=3010=209
+20151116-19:23:54: Sent ResendRequest FROM: 52 TO: 53
+20151116-19:23:54: ResendRequest for messages FROM 52 TO 53 has been satisfied.
+20151116-19:23:54: Processing queued message: 54

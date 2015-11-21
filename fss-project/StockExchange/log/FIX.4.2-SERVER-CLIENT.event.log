@@ -1,0 +1,30 @@
+20151110-03:04:56: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-03:04:56: Created session: FIX.4.2:SERVER->CLIENT
+20151110-03:05:36: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-03:05:36: Created session: FIX.4.2:SERVER->CLIENT
+20151110-03:28:04: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-03:28:04: Created session: FIX.4.2:SERVER->CLIENT
+20151110-04:41:20: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-04:41:20: Created session: FIX.4.2:SERVER->CLIENT
+20151110-04:41:27: Accepting session FIX.4.2:SERVER->CLIENT from /127.0.0.1:50835
+20151110-04:41:27: Acceptor heartbeat set to 30 seconds
+20151110-04:41:27: Received logon
+20151110-04:41:27: Responding to Logon request
+20151110-04:43:41: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-04:43:41: Created session: FIX.4.2:SERVER->CLIENT
+20151110-04:43:51: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-04:43:51: Created session: FIX.4.2:SERVER->CLIENT
+20151110-04:44:07: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-04:44:07: Created session: FIX.4.2:SERVER->CLIENT
+20151110-04:44:32: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-04:44:32: Created session: FIX.4.2:SERVER->CLIENT
+20151110-04:45:42: Session FIX.4.2:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-04:45:42: Created session: FIX.4.2:SERVER->CLIENT
+20151110-04:45:59: Accepting session FIX.4.2:SERVER->CLIENT from /127.0.0.1:50873
+20151110-04:45:59: Acceptor heartbeat set to 30 seconds
+20151110-04:45:59: Received logon
+20151110-04:45:59: Responding to Logon request
+20151110-04:47:31: Accepting session FIX.4.2:SERVER->CLIENT from /127.0.0.1:50879
+20151110-04:47:31: Acceptor heartbeat set to 30 seconds
+20151110-04:47:31: Received logon
+20151110-04:47:31: Responding to Logon request

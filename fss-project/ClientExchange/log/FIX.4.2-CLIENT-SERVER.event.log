@@ -1,0 +1,31 @@
+20151110-04:41:26: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-04:41:26: Created session: FIX.4.2:CLIENT->SERVER
+20151110-04:41:27: Initiated logon request
+20151110-04:41:27: Received logon
+20151110-04:43:12: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-04:43:12: Created session: FIX.4.2:CLIENT->SERVER
+20151110-04:43:12: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:13: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:14: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:15: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:16: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:17: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:19: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:20: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:21: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:22: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:23: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:24: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:25: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:26: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:27: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:28: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:43:29: java.net.ConnectException: java.net.ConnectException: Connection refused (Next retry in 1000 milliseconds)
+20151110-04:45:58: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-04:45:58: Created session: FIX.4.2:CLIENT->SERVER
+20151110-04:45:59: Initiated logon request
+20151110-04:45:59: Received logon
+20151110-04:47:30: Session FIX.4.2:CLIENT->SERVER schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20151110-04:47:30: Created session: FIX.4.2:CLIENT->SERVER
+20151110-04:47:31: Initiated logon request
+20151110-04:47:31: Received logon
